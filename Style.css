@@ -143,28 +143,3 @@
   font-weight: 700;
   color: #b9bdcf;
 }
-
-@media screen and (min-width: 769px) {
-  .container-main {
-    margin: 3rem 10% 1rem 10%;
-  }
-
-  .photo-perfil {
-    width: 200px;
-    height: 200px;
-  }
-
-  .Headtitle {
-    font-size: var(--h1-font-size);
-  }
-
-  .City {
-    font-size: var(--normal-font-size);
-  }
-
-  .card {
-    width: 130px;
-    height: 90px;
-    font-size: 1rem;
-  }
-}
